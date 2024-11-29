@@ -1,0 +1,59 @@
+.contenedor{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.tituloscelestes{
+    color: #0070bf;
+}
+
+.titulosnaranjas{
+    color: #F09423
+}
+
+
+#parraforojo{
+    color:#FF2606
+}
+
+#parraforojo strong{
+    font-weight: lighter;
+    color: #B70842
+}
+
+#parrafoverde{
+    color:#B8D45A
+}
+
+#parrafoverde strong{
+    font-weight: lighter;
+    color: #889773
+}
+
+#parrafovioleta{
+    color:#DDC0E2
+}
+
+
+#parrafovioleta strong{
+    font-weight: lighter;
+    color:#964C79
+}
+
+#parrafolila{
+    color:#B4AAD8
+}
+
+#parrafolila strong{
+    font-weight: lighter;
+    color: #645BAD;
+}
+
+#parraforosado{
+    color:#FF55E4
+}
+
+#parraforosado strong{
+    font-weight: lighter;
+    color: #D167C2
+}

@@ -1,0 +1,67 @@
+#ejercicio1{
+    background-color: rgb(140, 140, 255);
+    padding: 15px;
+    margin: 20px;
+}
+
+#ejercicio2{
+    background-image: url(../img/delfin.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#ejercicio3{
+    border: red 2px solid;
+    border-radius: 10px;
+}
+
+#ejercicio4{
+    font-weight: bold;
+    border: 2px;
+    padding: 100px;
+}
+
+#ejercicio5amarillo{
+    background-color: yellow;
+ 
+}
+
+#ejercicio5amarillo p{
+    text-align: center;
+}
+
+#ejercicio6{
+    border: purple 5px double;
+    background-color: goldenrod;
+    padding:40px;
+
+}
+
+#ejercicio7{
+    background-image: url(../img/galgosfelices.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+#ejercicio8{
+    background-image: url(../img/suecia.png);
+    background-repeat: repeat-y;
+    background-size:  50%;
+}
+
+#ejercicio9{
+    background-color: pink;
+    background-image: url(../img/saxofon.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+#ejercicio9 a{
+    background-color: beige;
+}
+
+#ejercicio10{
+    margin-right: 50%;
+    border: dotted green 3px;
+    padding: 25px;
+}
